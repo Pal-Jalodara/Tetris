@@ -23,8 +23,8 @@ Tetris is a tile-matching puzzle game where players manipulate falling blocks (T
 ## ⚡ Installation Guide
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pal-Jalodara/tetris.git
-   cd tetris
+   git clone https://github.com/Pal-Jalodara/Tetris.git
+   cd Tetris
    ```
 2. Compile the game using g++:
    ```bash
